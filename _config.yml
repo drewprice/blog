@@ -21,8 +21,8 @@ author_image: "/assets/images/head.png"
 
 paginate:	5
 
-url: "http://drewfrom.space/blog"
-baseurl: ""
+url: "http://drewfrom.space/"
+baseurl: "blog"
 
 # social icons and sharing options
 social:
