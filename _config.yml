@@ -1,6 +1,6 @@
 # Build settings
 markdown: redcarpet
-permalink: /blog/:title
+permalink: /:title
 highlighter: pygments
 gems:
   - jemoji
@@ -22,7 +22,7 @@ author_image: "/assets/images/head.png"
 paginate:	5
 
 url: "http://drewfrom.space/" # the base hostname & protocol for your site
-baseurl: "/blog"
+baseurl: ""
 
 # social icons and sharing options
 social:
@@ -33,12 +33,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
- # - icon:	facebook
- #   url:	https://facebook.com/drewscottprice
- #   desc: Connect with me facebook
- #   share_url: https://www.facebook.com/sharer.php
- #   share_title: ?t=
- #   share_link: "&amp;u="
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/drewprice
