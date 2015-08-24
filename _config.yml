@@ -1,6 +1,6 @@
 # Build settings
 markdown: redcarpet
-permalink: :title
+permalink: /:title
 highlighter: pygments
 gems:
   - jemoji
@@ -11,18 +11,18 @@ description: A blog about some things.
 
 email: drewsprice@gmail.com
 #blog logo
-logo: "/blog/assets/images/logo.png"
+logo: "/assets/images/logo.png"
 # blog cover
-cover: "/blog/assets/images/ocean.jpg"
+cover: "/assets/images/ocean.jpg"
 
 name: 'Drew Price'
 author: 'Drew Price'
-author_image: "/blog/assets/images/head.png"
+author_image: "/assets/images/head.png"
 
 paginate:	5
 
-url: "http://drewfrom.space/blog" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://drewfrom.space/" # the base hostname & protocol for your site
+baseurl: "/blog"
 
 # social icons and sharing options
 social:
