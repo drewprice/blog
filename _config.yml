@@ -1,6 +1,6 @@
 # Build settings
 markdown: redcarpet
-permalink: :title
+permalink: /blog/:title
 highlighter: pygments
 gems:
   - jemoji
@@ -11,13 +11,13 @@ description: A blog about some things.
 
 email: drewsprice@gmail.com
 #blog logo
-logo: "assets/images/logo.png"
+logo: "/blog/assets/images/logo.png"
 # blog cover
-cover: "assets/images/ocean.jpg"
+cover: "/blog/assets/images/ocean.jpg"
 
 name: 'Drew Price'
 author: 'Drew Price'
-author_image: "assets/images/head.png"
+author_image: "/blog/assets/images/head.png"
 
 paginate:	5
 
