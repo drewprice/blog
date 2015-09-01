@@ -183,4 +183,4 @@ Scary, weird things don't have to be so scary or weird. It took me a few months 
 
 It's easy to think that computers, with their big fancy algorithms and funky alien syntax, are incomprehensible and magic—but it's also wrong.
 
-Computers only know how to do what people teach them to do, and people cannot do things that are incomprehensible and magic. Excluding wizards. People, if we over simplify it, can really only tell stories. Even if those stories are muddled up with jargon like *recursion* and syntax that makes it look like an octopus is typing, it's really just a story of some sort.
+Computers only know how to do what people teach them to do, and people cannot do things that are incomprehensible and magic. Excluding wizards. People, if we over simplify it, can really only tell stories. Even if those stories are muddled up with jargon like *recursion* and syntax that makes it look like an octopus is typing, it's still just a story. A weird one to tell. But it is a story.
