@@ -66,7 +66,7 @@ h6 {
 }
 
 .bg-darkest-gray {
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
 }
 
 .btn-primary {
@@ -172,7 +172,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
 }
 
 .navbar-default .navbar-brand {
@@ -254,7 +254,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #{{ site.color.secondary-dark }};
+        background-color: #222;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background: #999;
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -312,7 +312,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 0,125em;
+        margin-bottom: 50px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
@@ -654,7 +654,8 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
+    background-image: url(../img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -750,7 +751,7 @@ ul.social-buttons li a {
     line-height: 40px;
     outline: 0;
     color: #fff;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -824,7 +825,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -834,7 +835,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: #222;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
