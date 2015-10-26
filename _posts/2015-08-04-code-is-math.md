@@ -2,8 +2,8 @@
 layout: post
 title:  "Code is math, and you can too."
 date:   2015-08-03 22:00:00
-categories: code art math programming
-tags:
+categories:
+tags: code, art, math, programming
 image: /assets/article_images/nil
 ---
 *This is mildly a response to to Paul Graham's article, [Hackers and Painters](http://www.paulgraham.com/hp.html), which is brilliant, despite the argument I make below.*

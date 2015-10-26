@@ -2,8 +2,8 @@
 layout: post
 title:  "Traversing a binary search tree, with hobbits"
 date:   2015-09-01 09:00:00
-categories: ruby rails
-tags: ruby rails
+categories:
+tags: ruby, rails
 image: /assets/article_images/2014-11-30-mediator_features/nil
 ---
 *[Exercism.io](http://exercism.io/) is a place to solve programming challenges in a social context. I was introduced to binary search trees through Exercism, and then promptly stumped by the problem of traversing them. Eventually, I gave in and used a method I had found but didn't understand to solve the problem. This is an attempt to understand.*
